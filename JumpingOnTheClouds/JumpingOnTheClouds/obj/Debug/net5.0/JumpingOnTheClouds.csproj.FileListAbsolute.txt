@@ -1,0 +1,16 @@
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\net5.0\JumpingOnTheClouds.exe
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\net5.0\JumpingOnTheClouds.deps.json
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\net5.0\JumpingOnTheClouds.runtimeconfig.json
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\net5.0\JumpingOnTheClouds.runtimeconfig.dev.json
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\net5.0\JumpingOnTheClouds.dll
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\net5.0\ref\JumpingOnTheClouds.dll
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\net5.0\JumpingOnTheClouds.pdb
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\net5.0\JumpingOnTheClouds.csproj.AssemblyReference.cache
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\net5.0\JumpingOnTheClouds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\net5.0\JumpingOnTheClouds.AssemblyInfoInputs.cache
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\net5.0\JumpingOnTheClouds.AssemblyInfo.cs
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\net5.0\JumpingOnTheClouds.csproj.CoreCompileInputs.cache
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\net5.0\JumpingOnTheClouds.dll
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\net5.0\ref\JumpingOnTheClouds.dll
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\net5.0\JumpingOnTheClouds.pdb
+C:\Users\umarc\Documents\DotNet_Exercises\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\net5.0\JumpingOnTheClouds.genruntimeconfig.cache
